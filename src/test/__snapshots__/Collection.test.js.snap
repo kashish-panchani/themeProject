@@ -1,0 +1,907 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CollectionPage renders collection page with mock data 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <div
+          class="mx-0 sm:mx-auto container"
+        >
+          <div
+            class="flex items-center justify-between max-w-xs sm:max-w-3xl md:max-w-4xl w-full mx-auto"
+          >
+            <div
+              class="gap-2 flex items-center"
+            >
+              <div
+                class="w-4/6 sm:w-5/6 flex flex-col mb-2 gap-2"
+              >
+                <div
+                  class="text-xs sm:text-lg uppercase font-medium"
+                >
+                  Honoring Yoga Day
+                </div>
+                <div
+                  class="text-xs sm:text-sm text-ellipsis line-clamp-2 md:line-clamp-3"
+                >
+                  Join us in celebrating International Yoga Day and honor the ancient practice that brings harmony and balance to our lives. At Samskara Home, we believe in the power of yoga to transform both body and mind, and we’re excited to offer you special deals on our exclusive range of yoga essentials.
+                </div>
+              </div>
+            </div>
+            <div
+              class="w-96 ml-2 sm:w-52 relative"
+            >
+              <img
+                alt="collection"
+                class="w-full h-full object-contain"
+                loading="lazy"
+                src="qrcode.webp"
+              />
+            </div>
+          </div>
+          <div
+            class="grid grid-cols-2 sm:grid-cols-3 2xl:grid-cols-3 gap-2.5 md:gap-4 py-2 justify-center items-center max-w-80 sm:max-w-4xl xl:max-w-4xl mx-auto"
+          >
+            <div
+              class="col-span-2 sm:col-span-2 sm:row-span-2 flex-grow"
+            >
+              <img
+                alt="coverimg"
+                class="object-cover rounded-xl sm:h-[423px] sm:w-[425px] md:h-[528px] md:w-[528px] lg:h-[592px] lg:w-[592px]"
+                src="https://cdn.unthink.ai/img/unthink_ai/Honoring%20Yoga%20Day_tarlngq.webp"
+              />
+            </div>
+            <div
+              class="relative collection_card rounded-xl overflow-hidden"
+              data-testid="collection"
+              id="product_card"
+            >
+              <div
+                class="border rounded-xl"
+              >
+                <img
+                  alt="collection_image"
+                  class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                  data-testid="colletionImage"
+                  src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/e-gift_card.png?v=1693556957"
+                />
+              </div>
+              <div
+                class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+                title="Honoring Yoga Day"
+              >
+                <div
+                  class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+                >
+                  Honoring Yoga Day
+                </div>
+              </div>
+              <div
+                class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+              />
+              <div
+                class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+              >
+                <p
+                  class="whitespace-nowrap w-64 text-white font-bold"
+                >
+                  ₹
+                  100
+                </p>
+                <p
+                  class="whitespace-nowrap text-white font-bold"
+                >
+                  10% off
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative collection_card rounded-xl overflow-hidden"
+              data-testid="collection"
+              id="product_card"
+            >
+              <div
+                class="border rounded-xl"
+              >
+                <img
+                  alt="collection_image"
+                  class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                  data-testid="colletionImage"
+                  src="https://cdn.shopify.com/s/files/1/0596/3772/7364/products/SamskaraTempleIncenseStick_Packof5.jpg?v=1675420675"
+                />
+              </div>
+              <div
+                class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+                title="Honoring Yoga Day"
+              >
+                <div
+                  class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+                >
+                  Honoring Yoga Day
+                </div>
+              </div>
+              <div
+                class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+              />
+              <div
+                class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+              >
+                <p
+                  class="whitespace-nowrap w-64 text-white font-bold"
+                >
+                  ₹
+                  1000
+                </p>
+                <p
+                  class="whitespace-nowrap text-white font-bold"
+                >
+                  40%
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative collection_card rounded-xl overflow-hidden"
+              data-testid="collection"
+              id="product_card"
+            >
+              <div
+                class="border rounded-xl"
+              >
+                <img
+                  alt="collection_image"
+                  class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                  data-testid="colletionImage"
+                  src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/OudWarmingOil.jpg?v=1693979500"
+                />
+              </div>
+              <div
+                class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+                title="Honoring Yoga Day"
+              >
+                <div
+                  class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+                >
+                  Honoring Yoga Day
+                </div>
+              </div>
+              <div
+                class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+              />
+              <div
+                class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+              >
+                <p
+                  class="whitespace-nowrap w-64 text-white font-bold"
+                >
+                  ₹
+                  380
+                </p>
+                <p
+                  class="whitespace-nowrap text-white font-bold"
+                >
+                  90%
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative collection_card rounded-xl overflow-hidden"
+              data-testid="collection"
+              id="product_card"
+            >
+              <div
+                class="border rounded-xl"
+              >
+                <img
+                  alt="collection_image"
+                  class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                  data-testid="colletionImage"
+                  src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/VetiverWarmingOil1.jpg?v=1693976652"
+                />
+              </div>
+              <div
+                class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+                title="Honoring Yoga Day"
+              >
+                <div
+                  class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+                >
+                  Honoring Yoga Day
+                </div>
+              </div>
+              <div
+                class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+              />
+              <div
+                class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+              >
+                <p
+                  class="whitespace-nowrap w-64 text-white font-bold"
+                >
+                  ₹
+                  380
+                </p>
+                <p
+                  class="whitespace-nowrap text-white font-bold"
+                >
+                  20%
+                </p>
+              </div>
+            </div>
+            <div
+              class="relative collection_card rounded-xl overflow-hidden"
+              data-testid="collection"
+              id="product_card"
+            >
+              <div
+                class="border rounded-xl"
+              >
+                <img
+                  alt="collection_image"
+                  class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                  data-testid="colletionImage"
+                  src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/TempleWarmingOil.jpg?v=1693977657"
+                />
+              </div>
+              <div
+                class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+                title="Honoring Yoga Day"
+              >
+                <div
+                  class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+                >
+                  Honoring Yoga Day
+                </div>
+              </div>
+              <div
+                class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+              />
+              <div
+                class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+              >
+                <p
+                  class="whitespace-nowrap w-64 text-white font-bold"
+                >
+                  ₹
+                  380
+                </p>
+                <p
+                  class="whitespace-nowrap text-white font-bold"
+                >
+                  30%
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <div
+        class="mx-0 sm:mx-auto container"
+      >
+        <div
+          class="flex items-center justify-between max-w-xs sm:max-w-3xl md:max-w-4xl w-full mx-auto"
+        >
+          <div
+            class="gap-2 flex items-center"
+          >
+            <div
+              class="w-4/6 sm:w-5/6 flex flex-col mb-2 gap-2"
+            >
+              <div
+                class="text-xs sm:text-lg uppercase font-medium"
+              >
+                Honoring Yoga Day
+              </div>
+              <div
+                class="text-xs sm:text-sm text-ellipsis line-clamp-2 md:line-clamp-3"
+              >
+                Join us in celebrating International Yoga Day and honor the ancient practice that brings harmony and balance to our lives. At Samskara Home, we believe in the power of yoga to transform both body and mind, and we’re excited to offer you special deals on our exclusive range of yoga essentials.
+              </div>
+            </div>
+          </div>
+          <div
+            class="w-96 ml-2 sm:w-52 relative"
+          >
+            <img
+              alt="collection"
+              class="w-full h-full object-contain"
+              loading="lazy"
+              src="qrcode.webp"
+            />
+          </div>
+        </div>
+        <div
+          class="grid grid-cols-2 sm:grid-cols-3 2xl:grid-cols-3 gap-2.5 md:gap-4 py-2 justify-center items-center max-w-80 sm:max-w-4xl xl:max-w-4xl mx-auto"
+        >
+          <div
+            class="col-span-2 sm:col-span-2 sm:row-span-2 flex-grow"
+          >
+            <img
+              alt="coverimg"
+              class="object-cover rounded-xl sm:h-[423px] sm:w-[425px] md:h-[528px] md:w-[528px] lg:h-[592px] lg:w-[592px]"
+              src="https://cdn.unthink.ai/img/unthink_ai/Honoring%20Yoga%20Day_tarlngq.webp"
+            />
+          </div>
+          <div
+            class="relative collection_card rounded-xl overflow-hidden"
+            data-testid="collection"
+            id="product_card"
+          >
+            <div
+              class="border rounded-xl"
+            >
+              <img
+                alt="collection_image"
+                class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                data-testid="colletionImage"
+                src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/e-gift_card.png?v=1693556957"
+              />
+            </div>
+            <div
+              class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+              title="Honoring Yoga Day"
+            >
+              <div
+                class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+              >
+                Honoring Yoga Day
+              </div>
+            </div>
+            <div
+              class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+            />
+            <div
+              class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+            >
+              <p
+                class="whitespace-nowrap w-64 text-white font-bold"
+              >
+                ₹
+                100
+              </p>
+              <p
+                class="whitespace-nowrap text-white font-bold"
+              >
+                10% off
+              </p>
+            </div>
+          </div>
+          <div
+            class="relative collection_card rounded-xl overflow-hidden"
+            data-testid="collection"
+            id="product_card"
+          >
+            <div
+              class="border rounded-xl"
+            >
+              <img
+                alt="collection_image"
+                class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                data-testid="colletionImage"
+                src="https://cdn.shopify.com/s/files/1/0596/3772/7364/products/SamskaraTempleIncenseStick_Packof5.jpg?v=1675420675"
+              />
+            </div>
+            <div
+              class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+              title="Honoring Yoga Day"
+            >
+              <div
+                class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+              >
+                Honoring Yoga Day
+              </div>
+            </div>
+            <div
+              class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+            />
+            <div
+              class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+            >
+              <p
+                class="whitespace-nowrap w-64 text-white font-bold"
+              >
+                ₹
+                1000
+              </p>
+              <p
+                class="whitespace-nowrap text-white font-bold"
+              >
+                40%
+              </p>
+            </div>
+          </div>
+          <div
+            class="relative collection_card rounded-xl overflow-hidden"
+            data-testid="collection"
+            id="product_card"
+          >
+            <div
+              class="border rounded-xl"
+            >
+              <img
+                alt="collection_image"
+                class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                data-testid="colletionImage"
+                src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/OudWarmingOil.jpg?v=1693979500"
+              />
+            </div>
+            <div
+              class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+              title="Honoring Yoga Day"
+            >
+              <div
+                class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+              >
+                Honoring Yoga Day
+              </div>
+            </div>
+            <div
+              class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+            />
+            <div
+              class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+            >
+              <p
+                class="whitespace-nowrap w-64 text-white font-bold"
+              >
+                ₹
+                380
+              </p>
+              <p
+                class="whitespace-nowrap text-white font-bold"
+              >
+                90%
+              </p>
+            </div>
+          </div>
+          <div
+            class="relative collection_card rounded-xl overflow-hidden"
+            data-testid="collection"
+            id="product_card"
+          >
+            <div
+              class="border rounded-xl"
+            >
+              <img
+                alt="collection_image"
+                class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                data-testid="colletionImage"
+                src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/VetiverWarmingOil1.jpg?v=1693976652"
+              />
+            </div>
+            <div
+              class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+              title="Honoring Yoga Day"
+            >
+              <div
+                class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+              >
+                Honoring Yoga Day
+              </div>
+            </div>
+            <div
+              class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+            />
+            <div
+              class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+            >
+              <p
+                class="whitespace-nowrap w-64 text-white font-bold"
+              >
+                ₹
+                380
+              </p>
+              <p
+                class="whitespace-nowrap text-white font-bold"
+              >
+                20%
+              </p>
+            </div>
+          </div>
+          <div
+            class="relative collection_card rounded-xl overflow-hidden"
+            data-testid="collection"
+            id="product_card"
+          >
+            <div
+              class="border rounded-xl"
+            >
+              <img
+                alt="collection_image"
+                class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+                data-testid="colletionImage"
+                src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/TempleWarmingOil.jpg?v=1693977657"
+              />
+            </div>
+            <div
+              class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+              title="Honoring Yoga Day"
+            >
+              <div
+                class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+              >
+                Honoring Yoga Day
+              </div>
+            </div>
+            <div
+              class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+            />
+            <div
+              class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+            >
+              <p
+                class="whitespace-nowrap w-64 text-white font-bold"
+              >
+                ₹
+                380
+              </p>
+              <p
+                class="whitespace-nowrap text-white font-bold"
+              >
+                30%
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`CollectionPage snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="mx-0 sm:mx-auto container"
+    >
+      <div
+        class="flex items-center justify-between max-w-xs sm:max-w-3xl md:max-w-4xl w-full mx-auto"
+      >
+        <div
+          class="gap-2 flex items-center"
+        >
+          <div
+            class="w-4/6 sm:w-5/6 flex flex-col mb-2 gap-2"
+          >
+            <div
+              class="text-xs sm:text-lg uppercase font-medium"
+            >
+              Honoring Yoga Day
+            </div>
+            <div
+              class="text-xs sm:text-sm text-ellipsis line-clamp-2 md:line-clamp-3"
+            >
+              Join us in celebrating International Yoga Day and honor the ancient practice that brings harmony and balance to our lives. At Samskara Home, we believe in the power of yoga to transform both body and mind, and we’re excited to offer you special deals on our exclusive range of yoga essentials.
+            </div>
+          </div>
+        </div>
+        <div
+          class="w-96 ml-2 sm:w-52 relative"
+        >
+          <img
+            alt="collection"
+            class="w-full h-full object-contain"
+            loading="lazy"
+            src="qrcode.webp"
+          />
+        </div>
+      </div>
+      <div
+        class="grid grid-cols-2 sm:grid-cols-3 2xl:grid-cols-3 gap-2.5 md:gap-4 py-2 justify-center items-center max-w-80 sm:max-w-4xl xl:max-w-4xl mx-auto"
+      >
+        <div
+          class="col-span-2 sm:col-span-2 sm:row-span-2 flex-grow"
+        >
+          <img
+            alt="coverimg"
+            class="object-cover rounded-xl sm:h-[423px] sm:w-[425px] md:h-[528px] md:w-[528px] lg:h-[592px] lg:w-[592px]"
+            src="https://cdn.unthink.ai/img/unthink_ai/Honoring%20Yoga%20Day_tarlngq.webp"
+          />
+        </div>
+        <div
+          class="relative collection_card rounded-xl overflow-hidden"
+          data-testid="collection"
+          id="product_card"
+        >
+          <div
+            class="border rounded-xl"
+          >
+            <img
+              alt="collection_image"
+              class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+              data-testid="colletionImage"
+              src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/e-gift_card.png?v=1693556957"
+            />
+          </div>
+          <div
+            class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+            title="Honoring Yoga Day"
+          >
+            <div
+              class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+            >
+              Honoring Yoga Day
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+          />
+          <div
+            class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+          >
+            <p
+              class="whitespace-nowrap w-64 text-white font-bold"
+            >
+              ₹100
+            </p>
+            <p
+              class="whitespace-nowrap text-white font-bold"
+            >
+              10% off
+            </p>
+          </div>
+        </div>
+        <div
+          class="relative collection_card rounded-xl overflow-hidden"
+          data-testid="collection"
+          id="product_card"
+        >
+          <div
+            class="border rounded-xl"
+          >
+            <img
+              alt="collection_image"
+              class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+              data-testid="colletionImage"
+              src="https://cdn.shopify.com/s/files/1/0596/3772/7364/products/SamskaraTempleIncenseStick_Packof5.jpg?v=1675420675"
+            />
+          </div>
+          <div
+            class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+            title="Honoring Yoga Day"
+          >
+            <div
+              class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+            >
+              Honoring Yoga Day
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+          />
+          <div
+            class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+          >
+            <p
+              class="whitespace-nowrap w-64 text-white font-bold"
+            >
+              ₹1000
+            </p>
+            <p
+              class="whitespace-nowrap text-white font-bold"
+            >
+              40%
+            </p>
+          </div>
+        </div>
+        <div
+          class="relative collection_card rounded-xl overflow-hidden"
+          data-testid="collection"
+          id="product_card"
+        >
+          <div
+            class="border rounded-xl"
+          >
+            <img
+              alt="collection_image"
+              class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+              data-testid="colletionImage"
+              src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/OudWarmingOil.jpg?v=1693979500"
+            />
+          </div>
+          <div
+            class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+            title="Honoring Yoga Day"
+          >
+            <div
+              class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+            >
+              Honoring Yoga Day
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+          />
+          <div
+            class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+          >
+            <p
+              class="whitespace-nowrap w-64 text-white font-bold"
+            >
+              ₹380
+            </p>
+            <p
+              class="whitespace-nowrap text-white font-bold"
+            >
+              90%
+            </p>
+          </div>
+        </div>
+        <div
+          class="relative collection_card rounded-xl overflow-hidden"
+          data-testid="collection"
+          id="product_card"
+        >
+          <div
+            class="border rounded-xl"
+          >
+            <img
+              alt="collection_image"
+              class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+              data-testid="colletionImage"
+              src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/VetiverWarmingOil1.jpg?v=1693976652"
+            />
+          </div>
+          <div
+            class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+            title="Honoring Yoga Day"
+          >
+            <div
+              class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+            >
+              Honoring Yoga Day
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+          />
+          <div
+            class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+          >
+            <p
+              class="whitespace-nowrap w-64 text-white font-bold"
+            >
+              ₹380
+            </p>
+            <p
+              class="whitespace-nowrap text-white font-bold"
+            >
+              20%
+            </p>
+          </div>
+        </div>
+        <div
+          class="relative collection_card rounded-xl overflow-hidden"
+          data-testid="collection"
+          id="product_card"
+        >
+          <div
+            class="border rounded-xl"
+          >
+            <img
+              alt="collection_image"
+              class="object-cover w-60 h-40 sm:w-52 sm:h-52 md:w-64 md:h-64 lg:w-72 lg:h-72"
+              data-testid="colletionImage"
+              src="https://cdn.shopify.com/s/files/1/0596/3772/7364/files/TempleWarmingOil.jpg?v=1693977657"
+            />
+          </div>
+          <div
+            class="flex absolute top-0 overflow-hidden px-4 h-16 w-full product_card_head"
+            title="Honoring Yoga Day"
+          >
+            <div
+              class="inline-block text-ellipsis whitespace-nowrap w-64 text-white font-bold pt-2 overflow-hidden m-0 cursor-pointer z-10 sm:z-1 
+                        
+                        "
+            >
+              Honoring Yoga Day
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center text-center absolute text-white text-lg top-0 bottom-0 h-overflow-hidden px-4 mx-auto w-full z-10"
+          />
+          <div
+            class="flex justify-between items-center absolute bottom-0 overflow-hidden p-4 h-16 w-full product_card_footer pt-7"
+          >
+            <p
+              class="whitespace-nowrap w-64 text-white font-bold"
+            >
+              ₹380
+            </p>
+            <p
+              class="whitespace-nowrap text-white font-bold"
+            >
+              30%
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

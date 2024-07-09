@@ -1,0 +1,120 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="main"
+  >
+    <div
+      class="fixed w-full z-20"
+    >
+      <div
+        class="title bg-red-700 text-white text-center p-1 font-bold"
+      >
+        EVERY OUTFIT HAS A LOVE STORY - LET'S CREATE YOURS TOGETHER!
+      </div>
+      <div
+        class="flex sm:hidden text-white justify-between items-center h-14 px-3"
+      >
+        <div
+          class="flex items-center"
+        >
+          <button
+            data-testid="drop-down"
+          >
+            <i
+              class="fas fa-bars"
+            />
+          </button>
+        </div>
+        <a
+          href="/"
+        >
+          <div
+            class="text-xl italic font-normal"
+          >
+            <p>
+              Swiftly Styled
+            </p>
+          </div>
+        </a>
+        <div
+          class="flex items-center"
+        >
+          <button
+            data-testid="searchVisible"
+          >
+            <i
+              class="fas fa-search"
+            />
+          </button>
+          <button
+            class="ml-4"
+          >
+            <i
+              class="far fa-user"
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="sm:flex justify-around hidden items-center md:px-16 h-14"
+      >
+        <a
+          href="/"
+        >
+          <div
+            class="text-white italic font-normal text-lg lg:text-2xl"
+          >
+            Swiftly Styled
+          </div>
+        </a>
+        <div
+          class="border relative flex justify-center items-center rounded-full bg-white md:w-3/6 h-10"
+        >
+          <div
+            class="w-full flex h-full items-center pl-3"
+          >
+            <input
+              class="outline-none w-full h-8 px-3 text-xs md:text-sm"
+              id="searchInput"
+              placeholder="Search for AI-powered inspiration..."
+              type="text"
+            />
+          </div>
+          <div
+            class="flex items-center gap-2 md:gap-2.5 px-3 text-gray-600"
+          >
+            <div>
+              |
+            </div>
+            <i
+              class="fas fa-microphone"
+            />
+            <i
+              class="far fa-image"
+            />
+            <i
+              class="fas fa-search"
+              data-testid="search"
+            />
+          </div>
+        </div>
+        <div
+          class="text-white font-bold text-xs"
+          data-testid="collection"
+        >
+          COLLECTIONS
+        </div>
+        <div
+          class="text-white"
+        >
+          <i
+            class="far fa-user"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,750 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="overflow-hidden"
+  >
+    <div
+      class="uppercase my-6 md:my-10 flex flex-col justify-center items-center text-center italic font-black text-base md:text-5xl text-slate-700 w-full"
+    >
+      <span>
+        perfect outfits
+        <br />
+         from across all eras
+      </span>
+    </div>
+    <div
+      class="text-center italic text-base md:text-2xl"
+    >
+      <p
+        class="text-slate-700"
+      >
+        <span
+          class="font-black capitalize"
+        >
+           Swiftly Style 
+        </span>
+         your outfit for the 
+        <span
+          class="font-black capitalize"
+        >
+          Eras Tour!
+        </span>
+      </p>
+    </div>
+    <div
+      class="text-center text-sm md:text-lg mt-8 md:mt-14 font-normal text-gray-600"
+    >
+      <p>
+        Got a 
+        <span
+          class="italic"
+        >
+          Blank Space 
+        </span>
+        in your wardrobe?
+      </p>
+      <p>
+        Discover 
+        <span>
+          Enchanted
+        </span>
+        fashion ideas beyond your Wildest Dreams!
+      </p>
+    </div>
+    <div
+      class="mt-8 flex justify-center items-center font-medium gap-2"
+    >
+      <button
+        class="btn border w-36 py-2 uppercase bg-rose-600 font-bold text-white"
+      >
+        explore collections
+      </button>
+      <button
+        class="btn border-black border w-36 font-bold uppercase py-2"
+      >
+        search outfits
+      </button>
+    </div>
+    <div
+      class="mt-8 md:mt-16 text-center text-xs md:text-sm text-gray-600"
+    >
+      <p>
+        KARMA IS YOUR FLAWLESS ATTIRE.
+      </p>
+    </div>
+    <div
+      class="flex mt-2"
+    >
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(165, 201, 165);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(239, 193, 128);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(199, 168, 203);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(122, 46, 57);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(181, 229, 248);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(247, 176, 204);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(205, 201, 193);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(197, 172, 144);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(36, 46, 71);"
+      />
+      <div
+        class="w-full h-7 sm:h-10 lg:h-14"
+        style="background-color: rgb(95, 91, 88);"
+      />
+    </div>
+    <div
+      id="collectionID"
+    >
+      <div
+        class="text-slate-800 flex flex-col gap-2 justify-center items-center my-6"
+      >
+        <p
+          class="text-base md:text-4xl flex justify-center items-center italic font-black"
+        >
+          Collections from the Eras!
+        </p>
+        <p
+          class="w-80 md:w-96 text-xs md:text-sm font-normal text-center text-gray-600"
+        >
+          Browse through our Eras Tour inspired collections,
+          <br />
+          featuring fashion from leading ecommerce platforms.
+        </p>
+      </div>
+      <div
+        class="pb-2"
+      >
+        <div
+          class="mx-auto grid gap-1 max-w-22 md:max-w-xl grid-cols-2 md:grid-cols-3"
+          style="grid-auto-rows: 14px;"
+        >
+          <a
+            class="card"
+            href="/collection/Debut"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(165, 201, 165);"
+          >
+            <img
+              alt="img1"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div1img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                Debut
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                (2006)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/fearless"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(239, 193, 128);"
+          >
+            <img
+              alt="img2"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div2img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                fearless
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                (2008)
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                (2021)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/Speak Now"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(199, 168, 203);"
+          >
+            <img
+              alt="img3"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div3img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                Speak Now
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                (2010)
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                (2021)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/RED"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(122, 46, 57);"
+          >
+            <img
+              alt="img4"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div4img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: cursive;"
+              >
+                RED
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: cursive;"
+              >
+                2010
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: cursive;"
+              >
+                2021
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/midnights"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 15; background-color: rgb(36, 46, 71);"
+          >
+            <img
+              alt="img10"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div5img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                midnights
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                (2022)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/1989"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(181, 229, 248);"
+          >
+            <img
+              alt="img6"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div6img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: monospace;"
+              >
+                1989
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: monospace;"
+              >
+                (2023)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/reputation"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(95, 91, 88);"
+          >
+            <img
+              alt="img11"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div7img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                reputation
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                (2017)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/lover"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(247, 176, 204);"
+          >
+            <img
+              alt="img7"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div11img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                lover
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Dancing Script;"
+              >
+                (2019)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/TheTortured"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 15; background-color: rgb(116, 111, 112);"
+          >
+            <img
+              alt="img5"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div9img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Spicy Rice;"
+              >
+                TheTortured
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Spicy Rice;"
+              >
+                poets department
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Spicy Rice;"
+              >
+                (2024)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/folklove"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(205, 201, 193);"
+          >
+            <img
+              alt="img8"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div8img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                folklove
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: Bebas Neue;"
+              >
+                (2020)
+              </span>
+            </div>
+          </a>
+          <a
+            class="card"
+            href="/collection/evermore"
+            style="margin: 2px; padding: 0px; position: relative; display: flex; align-items: center; justify-content: center; overflow: hidden; grid-row-end: span 10; background-color: rgb(197, 172, 144);"
+          >
+            <img
+              alt="img9"
+              class="image mb-5 absolute flex justify-center items-center opacity-30"
+              src="div10img.png"
+            />
+            <div
+              class="text-center"
+            >
+              <span
+                class="overlay-text hidden"
+                style="font-family: cursive;"
+              >
+                evermore
+              </span>
+              <span
+                class="overlay-text hidden"
+                style="font-family: cursive;"
+              >
+                (2020)
+              </span>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div
+      class="overflow-hidden"
+    >
+      <div
+        class="w-full py-7 px-11"
+      >
+        <div
+          class="text-base md:text-4xl text-center italic font-black"
+        >
+          Featured Collections
+        </div>
+        <div
+          class="text-center pb-10"
+        >
+          Check out the most popular collections on our website right now!
+        </div>
+        <div
+          class="flex justify-center items-center my-0 mx-auto relative h-80"
+          style="max-width: 1200px;"
+        >
+          <div
+            class="allItems allItems_3"
+          >
+            <img
+              alt="img1"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="slideImg1.jfif"
+            />
+          </div>
+          <div
+            class="allItems allItems_4"
+          >
+            <img
+              alt="img2"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg2.jpg"
+            />
+          </div>
+          <div
+            class="allItems allItems_5"
+          >
+            <img
+              alt="img3"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg3.jpg"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img4"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg4.jfif"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img10"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg5.webp"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img6"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg6.webp"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img11"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg7.jfif"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img7"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg8.jfif"
+            />
+          </div>
+          <div
+            class="allItems "
+          >
+            <img
+              alt="img5"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg9.jfif"
+            />
+          </div>
+          <div
+            class="allItems allItems_1"
+          >
+            <img
+              alt="img8"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg10.png"
+            />
+          </div>
+          <div
+            class="allItems allItems_2"
+          >
+            <img
+              alt="img9"
+              class="w-full h-full object-cover rounded-xl"
+              draggable="false"
+              src="sliderimg11.jfif"
+            />
+          </div>
+          <div
+            class="flex justify-center items-center absolute left-16 m-7 ani-left"
+            data-testid="prevbtn"
+          >
+            <div
+              class="flex justify-center items-center w-14 h-14 bg-black rounded-full"
+            >
+              <i
+                class="fa-solid fa-arrow-left text-white"
+              />
+            </div>
+          </div>
+          <div
+            class="flex justify-center items-center absolute right-16 m-7 ani-left"
+            data-testid="nextbtn"
+          >
+            <div
+              class="flex justify-center items-center w-14 h-14 bg-black rounded-full"
+            >
+              <i
+                class="fa-solid fa-arrow-right text-white"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="flex mt-2"
+    >
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(165, 201, 165);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(239, 193, 128);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(199, 168, 203);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(122, 46, 57);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(181, 229, 248);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(247, 176, 204);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(205, 201, 193);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(197, 172, 144);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(36, 46, 71);"
+      />
+      <div
+        class="w-full h-6 sm:h-10 lg:h-14"
+        style="background-color: rgb(95, 91, 88);"
+      />
+    </div>
+    <div
+      class="footer_bg text-white flex flex-col gap-3 items-center  justify-center text-[10px] md:text-base py-3"
+    >
+      <p
+        class="font-normal text-center"
+      >
+        THIS SITE IS OPERATED BY
+        <span
+          class="font-bold"
+        >
+          SWIFTIES 
+        </span>
+         (WHO 
+        <span
+          class="italic"
+        >
+          WERE
+        </span>
+         ALSO STRUGGLING TO FIND OUTFITS FOR THE ERAS TOUR).
+      </p>
+      <p
+        class="text-center"
+      >
+        WE WOULD LIKE TO CLARIFY THAT 
+        <span
+          class="font-bold"
+        >
+           WE ARE NOT AFFILIATED
+        </span>
+         WITH TAYLOR SWIFT, TAYLOR NATION, OR THE ERAS TOUR.
+      </p>
+      <p
+        class="text-center"
+      >
+        ALL IMAGES FEATURED ON THIS WEBSITE ARE USED FOR ILLUSTRATIVE PURPOSES ONLY 
+        <br />
+         AND WE DO NOT CLAIM OWNERSHIP OF THEM.
+      </p>
+    </div>
+    <div
+      class="footer_bg2 text-white flex flex-col gap-3  items-center justify-center text-[10px] md:text-base py-3"
+    >
+      <p
+        class="font-normal text-center"
+      >
+        This website features links to products from our affiliate partners 
+        <br />
+         to provide a means for us to earn commissions, if you choose to make a purchase through our links (at no added cost to you!)
+      </p>
+      <p
+        class="text-center"
+      >
+        We graciously thank you for helping us pay off the loan we had to take to purchase our tickets for the Eras Tour.
+      </p>
+    </div>
+    <div
+      class="footer_bg3 text-white flex justify-between items-center px-3 md:px-24 py-1 md:py-2 text-[9px] md:text-xs"
+    >
+      <div
+        class="font-bold"
+      >
+        PRIVACY
+      </div>
+      <div
+        class="text-center"
+      >
+        2024 SwiftlyStyled. All Rights Reserved.
+        <br />
+        London,UK
+      </div>
+      <div
+        class="font-bold"
+      >
+        TERMS
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
